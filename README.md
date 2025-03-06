@@ -23,11 +23,13 @@ that AI advancements create opportunities rather than deepen inequalities.
 
 Dataset Description:
 
-For this study, we will be utilizing two different data sets for this project:
-- From Data Entry to CEO: The AI Job Threat Index - https://www.kaggle.com/datasets/manavgupta92/from-data-entry-to-ceo-the-ai-job-threat-index
-- LinkedIn Job Postings (2023 - 2024) - https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
+Two different datasets were utilized for this study:
+- From Data Entry to CEO: The AI Job Threat Index
+  - https://www.kaggle.com/datasets/manavgupta92/from-data-entry-to-ceo-the-ai-job-threat-index
+- LinkedIn Job Postings (2023 - 2024)
+  - https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 
-Both datasets were compiled and made publicly avilable on Kaggle and requires no additional data collection. 
+Both datasets were compiled and made publicly avilable on Kaggle and there was no additional data collection on our part. 
 
 Data Cleaning and Preprocessing:
 
