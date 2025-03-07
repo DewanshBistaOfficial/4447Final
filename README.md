@@ -1,12 +1,12 @@
-#### The AI Job Threat Index: A Deep Dive into Industry Trends
+### The AI Job Threat Index: A Deep Dive into Industry Trends
 ##### COMP 4447: Data Science Tools - Final Project
 ###### Faiza Ali, Logan Han, Dewansh Bista
 
-Problem Definition/Research Question:
+#### Problem Definition/Research Question:
 
 How does new and emerging AI technology impact different job industries?
 
-Real-world Impact:
+#### Real-world Impact:
 
 As artificial intelligence (AI) continues to evolve, it is crucial to understand its influence on the job market. 
 AI has begun to play a significant role in various industries across the country, from automation in manufacturing 
@@ -21,7 +21,7 @@ stable, well-paying jobs. Understanding these trends and disparities is essentia
 corporations, and workers alike, as it allows for developing strategies that promote workforce adaptability and ensuring 
 that AI advancements create opportunities rather than deepen inequalities.
 
-Dataset Description:
+#### Dataset Description:
 
 Two different datasets were utilized for this study:
 - From Data Entry to CEO: The AI Job Threat Index
@@ -31,8 +31,8 @@ Two different datasets were utilized for this study:
 
 Both datasets were compiled and made publicly avilable on Kaggle and there was no additional data collection on our part. 
 
-Data Cleaning and Preprocessing:
+#### Data Cleaning and Preprocessing:
 
-Data Visualizations:
+#### Data Visualizations:
 
-Analyses and Results Interpretation:
+#### Analyses and Results Interpretation:
