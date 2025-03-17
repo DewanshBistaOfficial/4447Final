@@ -2,11 +2,13 @@
 ##### COMP 4447: Data Science Tools - Final Project
 ###### Faiza Ali, Logan Han, Dewansh Bista
 
-#### Problem Definition/Research Question:
+#### Table of Contents
+
+#### Research Question:
 
 How does new and emerging AI technology impact different job industries?
 
-#### Real-world Impact:
+#### Project Background:
 
 As artificial intelligence (AI) continues to evolve, it is crucial to understand its influence on the job market. 
 AI has begun to play a significant role in various industries across the country, from automation in manufacturing 
@@ -31,8 +33,17 @@ Two different datasets were utilized for this study:
 
 Both datasets were compiled and made publicly avilable on Kaggle and there was no additional data collection on our part. 
 
-#### Data Cleaning and Preprocessing:
-
-#### Data Visualizations:
-
-#### Analyses and Results Interpretation:
+#### Directory Layout
+- Data Cleaning Files  
+    - data_processing.ipynb : Performs initial data cleaning, handling missing values, and standardizing formats for analysis
+    - merging_datasets.py :
+- Exploratory Data Analysis :
+    - preliminary_analysis.ipynb : Performs an initial examination of the dataset, especifically on the numerical features such as Tasks, AI     Models, and AI Workload Ratio
+    - expanded_EDA.ipynb :
+    - cleanded_data.csv :
+- Statistical Analysis :
+    - feature_analysis.ipynb :
+    - K-Means_clustering.ipynb :
+    - cleanded_data.csv :
+      
+  
