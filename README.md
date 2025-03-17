@@ -23,7 +23,7 @@ stable, well-paying jobs. Understanding these trends and disparities is essentia
 corporations, and workers alike, as it allows for developing strategies that promote workforce adaptability and ensuring 
 that AI advancements create opportunities rather than deepen inequalities.
 
-#### Dataset Description:
+#### Datasets Used:
 
 Two different datasets were utilized for this study:
 - From Data Entry to CEO: The AI Job Threat Index
@@ -38,12 +38,12 @@ Both datasets were compiled and made publicly avilable on Kaggle and there was n
     - data_processing.ipynb : Documents and performs initial data cleaning, such as loading and merging the two datasets, handling missing values, reformatting values, and standardizing column names
     - merging_datasets.py : A script version of data_processing.ipynb that quickly executes data cleaning steps without documentation, and creates a new csv file with the cleaded data
 - Exploratory Data Analysis 
-    - preliminary_analysis.ipynb : Performs an initial examination of the dataset, especifically on the numerical features such as Tasks, AI     Models, and AI Workload Ratio
-    - expanded_EDA.ipynb : 
-    - cleanded_data.csv :
+    - preliminary_analysis.ipynb : Performs an initial examination of the dataset, especifically analyzing the distribution and correlation of the numerical features such as Tasks, AI Models, and AI Workload Ratio
+    - expanded_EDA.ipynb : Performs a detailed exploratory data analysis, focusing on the impact of AI across different job industries 
+    - cleanded_data.csv : The cleaned and preprocessed dataset used for further analysis
 - Statistical Analysis 
-    - feature_analysis.ipynb :
-    - K-Means_clustering.ipynb :
-    - cleanded_data.csv :
+    - feature_analysis.ipynb : Examines the significance of each variable and it's relation to AI impact 
+    - K-Means_clustering.ipynb : Applies K-Means clustering to group industries based on their AI impact risk
+    - cleanded_data.csv :  A refined version of the cleaned dataset used for statistical modeling
       
   
