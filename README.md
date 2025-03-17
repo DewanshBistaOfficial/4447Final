@@ -35,8 +35,8 @@ Both datasets were compiled and made publicly avilable on Kaggle and there was n
 
 #### Directory Layout
 - Data Cleaning Files  
-    - data_processing.ipynb : Performs initial data cleaning, handling missing values, and standardizing formats for analysis
-    - merging_datasets.py :
+    - data_processing.ipynb : Documents and performs initial data cleaning, such as loading and merging the two datasets, handling missing values, reformatting values, and standardizing column names
+    - merging_datasets.py : A script version of data_processing.ipynb that quickly executes data cleaning steps without documentation, and creates a new csv file with the cleaded data
 - Exploratory Data Analysis :
     - preliminary_analysis.ipynb : Performs an initial examination of the dataset, especifically on the numerical features such as Tasks, AI     Models, and AI Workload Ratio
     - expanded_EDA.ipynb :
