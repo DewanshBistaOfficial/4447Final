@@ -21,7 +21,7 @@ def replace_titles(input):
             return str
     return None
 
-# reformt work type values
+# reformat work type values
 def format_work_type(work_type):
     if "FULL" in work_type:
         return "Full Time"
