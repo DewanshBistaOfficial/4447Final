@@ -14,7 +14,6 @@
 
 How does new and emerging AI technology impact different job industries?
 
-<br>
 
 #### Project Background
 
@@ -38,7 +37,6 @@ identifying predictors of AI impact, categorizing jobs into AI-Safe, AI-Compleme
 and examining salary trends across these categories. The findings provide insights into how AI reshapes job markets, highlighting 
 industries at risk and those adapting AI as a supportive tool rather than a replacement.
 
-<br>
 
 #### Dataset Description
 
@@ -61,7 +59,6 @@ Final Dataset Features:
 - AI Workload Ratio: the proportion of tasks executed by AI compared to those completed by humans
 - Domain: job industry or sector
 
-<br>
 
 #### Repository Layout
 - Data Cleaning Files  
@@ -77,3 +74,10 @@ Final Dataset Features:
     - cleanded_data.csv :  A refined version of the cleaned dataset used for statistical modeling
       
   
+#### Installation
+To run this project, clone the repository:
+
+#### **1. Clone the Repository**
+```bash
+git clone https://github.com/DewanshBistaOfficial/4447Final.git
+cd 4447Final
