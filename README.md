@@ -7,10 +7,13 @@
 - [Project Background](#-project-background) &nbsp;
 - [Dataset Description](#-dataset-description) &nbsp;
 
+<br>
 
 ### Research Question
 
 How does new and emerging AI technology impact different job industries?
+
+<br>
 
 ### Project Background
 
@@ -33,6 +36,8 @@ statistical analysis and clustering techniques to determine AI’s influence on 
 identifying predictors of AI impact, categorizing jobs into AI-Safe, AI-Complementary, and AI-Risk groups using K-Means clustering, 
 and examining salary trends across these categories. The findings provide insights into how AI reshapes job markets, highlighting 
 industries at risk and those adapting AI as a supportive tool rather than a replacement.
+
+<br>
 
 ### Dataset Description
 
