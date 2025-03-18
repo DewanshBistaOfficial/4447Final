@@ -2,7 +2,10 @@
 ##### COMP 4447: Data Science Tools - Final Project
 ###### Faiza Ali, Logan Han, Dewansh Bista
 
-#### Table of Contents
+#### Table of Contents:
+- [Research Question](#-research-question) &nbsp;
+- [Project Background](#-project-background) &nbsp;
+
 
 #### Research Question:
 
