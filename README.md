@@ -52,14 +52,14 @@ Both datasets were compiled and made publicly avilable on Kaggle and there was n
 Most of the analysis work was performed on the AI Job Threat Index dataset, the LinkedIn dataset was mainly used to extract salary information. 
 
 Final Dataset Features:
-- Job Title : occupation name
-- Work Type :  employment type, such as full-time, part-time, or other
-- Average Normalized Salary : average annual salary for the job, adjusted for consistency
-- AI Impact : the estimated percentage of the job's tasks that could be affected or automated by AI
-- Tasks - the total number of routine and repetitive human-performed tasks associated with the job
-- AI Models - the number of distinct AI models or algorithms currently implemented with the job 
-- AI Workload Ratio - the proportion of tasks executed by AI compared to those completed by humans
-- Domain - the job industry 
+- Job Title: occupation name
+- Work Type: employment type (full-time, part-time, or other)
+- Average Normalized Salary: average annual salary for the job, adjusted for consistency
+- AI Impact: the estimated percentage of the job's tasks that could be affected or automated by AI
+- Tasks: the total number of routine and repetitive human-performed tasks associated with the job
+- AI Models: the number of distinct AI models or algorithms currently implemented with the job 
+- AI Workload Ratio: the proportion of tasks executed by AI compared to those completed by humans
+- Domain: job industry or sector
 
 <br>
 
