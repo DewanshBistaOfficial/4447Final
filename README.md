@@ -2,17 +2,17 @@
 ##### COMP 4447: Data Science Tools - Final Project
 ###### Faiza Ali, Logan Han, Dewansh Bista
 
-#### Table of Contents:
+### Table of Contents:
 - [Research Question](#-research-question) &nbsp;
 - [Project Background](#-project-background) &nbsp;
 - [Dataset Description](#-dataset-description) &nbsp;
 
 
-#### Research Question
+### Research Question
 
 How does new and emerging AI technology impact different job industries?
 
-#### Project Background
+### Project Background
 
 As artificial intelligence (AI) continues to evolve, it is crucial to understand its influence on the job market. 
 AI has begun to play a significant role in various industries across the country, from automation in manufacturing 
@@ -34,7 +34,7 @@ identifying predictors of AI impact, categorizing jobs into AI-Safe, AI-Compleme
 and examining salary trends across these categories. The findings provide insights into how AI reshapes job markets, highlighting 
 industries at risk and those adapting AI as a supportive tool rather than a replacement.
 
-#### Dataset Description
+### Dataset Description
 
 Two different datasets were utilized for this study:
 - From Data Entry to CEO: The AI Job Threat Index
