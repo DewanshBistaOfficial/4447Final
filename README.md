@@ -1,7 +1,8 @@
 ### The AI Job Threat Index: A Deep Dive into Industry Trends
 ##### COMP 4447: Data Science Tools - Final Project
 ###### Faiza Ali, Logan Han, Dewansh Bista
-
+ * TOC
+{:toc}
 ### Table of Contents:
 - [Research Question](#-research-question) &nbsp;
 - [Project Background](#-project-background) &nbsp;
