@@ -7,6 +7,7 @@
 - [Project Background](#project-background)
 - [Dataset Description](#dataset-description)
 - [Repository Layout](#repository-layout)
+- [Installation](#installation)
 
 <br>
 
@@ -77,7 +78,6 @@ Final Dataset Features:
 #### Installation
 To run this project, clone the repository:
 
-#### **1. Clone the Repository**
 ```bash
 git clone https://github.com/DewanshBistaOfficial/4447Final.git
 cd 4447Final
