@@ -10,13 +10,13 @@
 
 <br>
 
-### Research Question
+#### Research Question
 
 How does new and emerging AI technology impact different job industries?
 
 <br>
 
-### Project Background
+#### Project Background
 
 As artificial intelligence (AI) continues to evolve, it is crucial to understand its influence on the job market. 
 AI has begun to play a significant role in various industries across the country, from automation in manufacturing 
@@ -40,7 +40,7 @@ industries at risk and those adapting AI as a supportive tool rather than a repl
 
 <br>
 
-### Dataset Description
+#### Dataset Description
 
 Two different datasets were utilized for this study:
 - From Data Entry to CEO: The AI Job Threat Index
@@ -60,6 +60,8 @@ Final Dataset Features:
 - AI Models - the number of distinct AI models or algorithms currently implemented with the job 
 - AI Workload Ratio - the proportion of tasks executed by AI compared to those completed by humans
 - Domain - the job industry 
+
+<br>
 
 #### Directory Layout
 - Data Cleaning Files  
