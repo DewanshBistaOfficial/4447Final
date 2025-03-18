@@ -23,7 +23,14 @@ stable, well-paying jobs. Understanding these trends and disparities is essentia
 corporations, and workers alike, as it allows for developing strategies that promote workforce adaptability and ensuring 
 that AI advancements create opportunities rather than deepen inequalities.
 
-#### Datasets Used:
+This project aims to understand the impact of AI technology on various job industries, analyzing which roles are most vulnerable 
+to automation and which are likely to benefit from AI integration. Using the AI Job Threat Index dataset, this project applies 
+statistical analysis and clustering techniques to determine AI’s influence on different occupations. Key aspects of this study include 
+identifying predictors of AI impact, categorizing jobs into AI-Safe, AI-Complementary, and AI-Risk groups using K-Means clustering, 
+and examining salary trends across these categories. The findings provide insights into how AI reshapes job markets, highlighting 
+industries at risk and those adapting AI as a supportive tool rather than a replacement.
+
+#### Dataset Description:
 
 Two different datasets were utilized for this study:
 - From Data Entry to CEO: The AI Job Threat Index
@@ -31,7 +38,18 @@ Two different datasets were utilized for this study:
 - LinkedIn Job Postings (2023 - 2024)
   - https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 
-Both datasets were compiled and made publicly avilable on Kaggle and there was no additional data collection on our part. 
+Both datasets were compiled and made publicly avilable on Kaggle and there was no additional data collection on our part.
+Most of the analysis work was performed on the AI Job Threat Index dataset, the LinkedIn dataset was mainly used to extract salary information. 
+
+Final Dataset Features:
+- Job Title : occupation name
+- Work Type :  employment type, such as full-time, part-time, or other
+- Average Normalized Salary : average annual salary for the job, adjusted for consistency
+- AI Impact : the estimated percentage of the job's tasks that could be affected or automated by AI
+- Tasks - the total number of routine and repetitive human-performed tasks associated with the job
+- AI Models - the number of distinct AI models or algorithms currently implemented with the job 
+- AI Workload Ratio - the proportion of tasks executed by AI compared to those completed by humans
+- Domain - the job industry 
 
 #### Directory Layout
 - Data Cleaning Files  
