@@ -6,7 +6,7 @@
 - [Research Question](#research-question)
 - [Project Background](#project-background)
 - [Dataset Description](#dataset-description)
-- [Directory Layout](#directory-layout)
+- [Repository Layout](#repository-layout)
 
 <br>
 
@@ -63,7 +63,7 @@ Final Dataset Features:
 
 <br>
 
-#### Directory Layout
+#### Repository Layout
 - Data Cleaning Files  
     - data_processing.ipynb : Documents and performs initial data cleaning, such as loading and merging the two datasets, handling missing values, reformatting values, and standardizing column names
     - merging_datasets.py : A script version of data_processing.ipynb that quickly executes data cleaning steps without documentation, and creates a new csv file with the cleaded data
