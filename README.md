@@ -5,6 +5,7 @@
 #### Table of Contents:
 - [Research Question](#-research-question) &nbsp;
 - [Project Background](#-project-background) &nbsp;
+- [Dataset Description](#-dataset-description) &nbsp;
 
 
 #### Research Question:
