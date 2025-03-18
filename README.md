@@ -63,16 +63,16 @@ Final Dataset Features:
 
 #### Repository Layout
 - Data Cleaning Files  
-    - data_processing.ipynb : Documents and performs initial data cleaning, such as loading and merging the two datasets, handling missing values, reformatting values, and standardizing column names
-    - merging_datasets.py : A script version of data_processing.ipynb that quickly executes data cleaning steps without documentation, and creates a new csv file with the cleaded data
+    - data_processing.ipynb: Documents and performs initial data cleaning, such as loading and merging the two datasets, handling missing values, reformatting values, and standardizing column names
+    - merging_datasets.py: A script version of data_processing.ipynb that quickly executes data cleaning steps without documentation, and creates a new csv file with the cleaded data
 - Exploratory Data Analysis 
-    - preliminary_analysis.ipynb : Performs an initial examination of the dataset, especifically analyzing the distribution and correlation of the numerical features such as Tasks, AI Models, and AI Workload Ratio
-    - expanded_EDA.ipynb : Performs a detailed exploratory data analysis, focusing on the impact of AI across different job industries 
-    - cleanded_data.csv : The cleaned and preprocessed dataset used for further analysis
+    - preliminary_analysis.ipynb: Performs an initial examination of the dataset, especifically analyzing the distribution and correlation of the numerical features such as Tasks, AI Models, and AI Workload Ratio
+    - expanded_EDA.ipynb: Performs a detailed exploratory data analysis, focusing on the impact of AI across different job industries 
+    - cleanded_data.csv: The cleaned and preprocessed dataset used for further analysis
 - Statistical Analysis 
-    - feature_analysis.ipynb : Examines the significance of each variable and it's relation to AI impact 
-    - K-Means_clustering.ipynb : Applies K-Means clustering to group industries based on their AI impact risk
-    - cleanded_data.csv :  A refined version of the cleaned dataset used for statistical modeling
+    - feature_analysis.ipynb: Examines the significance of each variable and it's relation to AI impact 
+    - K-Means_clustering.ipynb: Applies K-Means clustering to group industries based on their AI impact risk
+    - cleanded_data.csv:  A refined version of the cleaned dataset used for statistical modeling
       
   
 #### Installation
