@@ -9,7 +9,7 @@
 - [Repository Layout](#repository-layout)
 - [Installation](#installation)
 
-<br> 
+<br>
 
 #### Research Question
 
